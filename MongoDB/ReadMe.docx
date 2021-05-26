@@ -17,8 +17,3 @@
 
 // DELETE
 1.  {{url}}appointments/:id ------- It allows user to cancel/delete his appointments.
-
-
-*****************************-----------------------------------------------*************************
---------------------------------Link to access API--------------------------
-https://documenter.getpostman.com/view/14817640/TzRa6j1s
