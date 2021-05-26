@@ -1,0 +1,24 @@
+* {{url}} = http://localhost/8081/
+
+// GET REQUEST
+
+1.  {{url}}services/ --- It will show all the services availabel
+2.  {{url}}services/:id ----- It will show details of particular services
+3.  {{url}}appointments/ ---  It will show all the appointments present
+4.  {{url}}appointments/:id ---  It will show details of a particular appointment
+5.  {{url}}staffs/---  It will show all the staff details
+6.  {{url}}venues/---  It will show all the venues
+
+// POST REQUEST
+1.  {{url}}appointments/ ----- It will register a new appointments based on validation and appointments conflicts
+
+// PATCH
+1.  {{url}}appointments/:id ----- It allows user to change its appointments details based on validation and appointments conflits
+
+// DELETE
+1.  {{url}}appointments/:id ------- It allows user to cancel/delete his appointments.
+
+
+*****************************-----------------------------------------------*************************
+--------------------------------Link to access API--------------------------
+https://documenter.getpostman.com/view/14817640/TzRa6j1s
